@@ -42,7 +42,6 @@ Project created by <a href="https://github.com/Richuxf">RICHU</a> to make it pub
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Richuxf/ANJUMWOL-V2
 
-
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
   
 
