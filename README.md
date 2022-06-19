@@ -14,7 +14,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 <div align="center">
   <p align="center">
-<img src=20220521_194414.jpeg>
+<img src=20220521_194414.jpg>
 </p>
 
   <p align="center">
