@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Richuxf">RICHU</a> to make it pub
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RichuAnjus/ANJUMWOL-V2
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
   
